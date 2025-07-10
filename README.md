@@ -8,7 +8,7 @@ This software is a console-based Kotlin application developed in IntelliJ IDEA. 
 
 My purpose for creating this software is to become comfortable with Kotlin as a programming language, and to set up a development workflow that I can build upon as I move toward more complex Android applications.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Pt3hEexyZ5Y)
 
 # Development Environment
 
